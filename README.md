@@ -11,14 +11,8 @@ Welcome to **MealPlannerPro**, the ultimate tool for your meal planning adventur
 
 ## How It Works
 
-1. **Camera Detection**: Use your smartphone camera to capture images of ingredients. Our advanced AI will detect the ingredients and suggest recipes.
+1. **Camera Detection**: Use your  camera to capture images of ingredients. It will detect the ingredients and suggest recipes.
 2. **Meal Planning**: Input your dietary preferences such as vegan, keto, or gluten-free, and MealPlannerPro will generate a tailored meal plan.
 3. **Nutritional Information**: Enter the name of any fast food dish, and receive detailed calorie and nutritional information instantly.
 
-## Getting Started
 
-To get started with MealPlannerPro, follow these simple steps:
-
-1. **Clone this repository**:
-   ```bash
-   git clone https://github.com/yourusername/mealplannerpro.git
