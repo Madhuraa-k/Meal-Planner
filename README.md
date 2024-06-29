@@ -14,5 +14,6 @@ Welcome to **MealPlannerPro**, the ultimate tool for your meal planning adventur
 1. **Camera Detection**: Use your  camera to capture images of ingredients. It will detect the ingredients and suggest recipes.
 2. **Meal Planning**: Input your dietary preferences such as vegan, keto, or gluten-free, and MealPlannerPro will generate a tailored meal plan.
 3. **Nutritional Information**: Enter the name of any fast food dish, and receive detailed calorie and nutritional information instantly.
+![image](https://github.com/Madhuraa-k/Meal-Planner/assets/147391550/3acd8175-31ea-4806-bbf9-36903ae0e161)
 
 
