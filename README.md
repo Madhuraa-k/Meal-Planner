@@ -16,10 +16,10 @@ Welcome to **G-Meal**, the ultimate tool for your meal planning adventures! Whet
 3. **Nutritional Information**: Enter the name of any fast food dish, and receive detailed calorie and nutritional information instantly.
    
 
-![Screenshot 2024-06-29 180452](https://github.com/Madhuraa-k/Meal-Planner/assets/147391550/fa03864f-6778-4dba-a0a2-d7841fa074f9)
+![Screenshot 2024-06-29 180452](https://github.com/Madhuraa-k/Meal-Planner/assets/147391550/1c7f4446-8574-421b-aaec-474c1bd22b3c)
 
-![Screenshot 2024-06-29 180751](https://github.com/Madhuraa-k/Meal-Planner/assets/147391550/8918d3e6-6d18-4f99-b975-58c81a905f89)
+![Screenshot 2024-06-29 180751](https://github.com/Madhuraa-k/Meal-Planner/assets/147391550/ec38668a-3d80-487e-8273-aefd002f0613)
 
-![Screenshot 2024-06-29 180823](https://github.com/Madhuraa-k/Meal-Planner/assets/147391550/795c024a-fcde-4777-b4dc-5f3fe22280d5)
+![Screenshot 2024-06-29 180823](https://github.com/Madhuraa-k/Meal-Planner/assets/147391550/3c08e5df-197b-4f7e-9054-fefc2baadf16)
 
-![Screenshot 2024-06-29 181809](https://github.com/Madhuraa-k/Meal-Planner/assets/147391550/9e5ee37e-7611-4033-ae37-1e846c98a37f)
+![Screenshot 2024-06-29 181809](https://github.com/Madhuraa-k/Meal-Planner/assets/147391550/9f2c856b-437b-45a8-9e08-7cc0683eeaa6)
