@@ -1,3 +1,3 @@
-# Meal Planner - Front-end
+# Meal Planner Frontend
 
 
